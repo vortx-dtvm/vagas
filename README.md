@@ -33,6 +33,6 @@ Nosso processo normalmente segue os seguintes steps (que podem variar em alguns 
 
 * **1ª Entrevista**: você vai conversar com algumas pessoas do nosso time de produto/engenharia para aprofundarmos na sua trajetória e também contarmos a você sobre o desafio que temos aqui. Para essa conversa você pode vir conhecer nosso escritório ou podemos fazer remotamente se for mais confortável para você.
 
-* **2ª Entrevista**: essa é uma etapa para nos aprofundarmos na sua experiência técnica, você vai conversar com alguém da liderança de nossa empresa. A ideia é você conhecer um pouco mais sobre a história e também se aprofundar no momento da empresa, tanto as coisas boas, quanto as coisas que precisam ser melhoradas. Espere bastante transparência nessa etapa.Esse estágio varia de vaga para vaga, pois em alguns caso a segunda entrevista não é necessária.
+* **2ª Entrevista**: essa é uma etapa para nos aprofundarmos na sua experiência técnica, você vai conversar com alguém da liderança de nossa empresa. A ideia é você conhecer um pouco mais sobre a história e também se aprofundar no momento da empresa, tanto as coisas boas, quanto as coisas que precisam ser melhoradas. Espere bastante transparência nessa etapa. Esse estágio varia de vaga para vaga, pois em alguns caso a segunda entrevista não é necessária.
 
     > Nota: a quantidade de entrevistas, depende muito do nível da vaga e do tipo da vaga. Normalmente vagas que possuem teste técnico, possuem até duas entrevistas e vagas que não possuem teste técnico, pode acontecer de ter uma terceira entrevista.
