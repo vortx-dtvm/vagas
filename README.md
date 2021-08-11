@@ -29,7 +29,7 @@ Nosso processo normalmente segue os seguintes steps (que podem variar em alguns 
 
 * **Pré-conversa:** alguém do nosso time de recrutamento vai te ligar para confirmar algumas informações e para conhecer um pouco mais sobre você e sobre suas experiências.
 
-* **Teste técnico:** após este bate-papo, o nosso time de EX (Employee Experience), vai lhe enviar um teste técnico (Algumas vagas não possuem testes, por exemplo UX, PM) e você terá 4 dias úteis para realizá-lo
+* **Teste técnico:** após este bate-papo, o nosso time de EX (Employee Experience), vai lhe enviar um teste técnico (Algumas vagas não possuem testes, por exemplo UX, PM) e você terá até 5 dias úteis para realizá-lo, caso precise estender este prazo, podemos negociar, sem problemas.
 
 * **1ª Entrevista**: você vai conversar com algumas pessoas do nosso time de produto/engenharia para se aprofundar na sua trajetória e também contar sobre o desafio que temos aqui. Para essa conversa você pode vir conhecer nosso escritório ou podemos fazer remotamente se for mais confortável para você.
 
