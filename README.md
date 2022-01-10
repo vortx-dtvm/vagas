@@ -15,7 +15,7 @@ Por isso buscamos pessoas apaixonadas por tecnologia e com muita vontade de muda
 
 Somos uma empresa de tecnologia, temos muito orgulho da nossa cultura de engenharia e nos empenhamos para construir um time cheio de energia e disposto a resolver os problemas da indústria com design, produto, tecnologia e com uma preocupação genuína com as pessoas.
 
-:point_right: [**Veja as nossas vagas em aberto**](https://jobs.kenoby.com/vortx/)
+:point_right: [**Veja as nossas vagas em aberto**](https://vortxtech.gupy.io/)
 
 ## Nosso processo de contratação
 
@@ -25,7 +25,7 @@ Durante o nosso processo você vai conversar com diferentes pessoas do time: rec
 
 Nosso processo normalmente segue os seguintes steps (que podem variar em alguns casos específicos):
 
-* **Candidatura**: você pode se candidatar a uma de nossas vagas aqui: https://jobs.kenoby.com/vortx/
+* **Candidatura**: você pode se candidatar a uma de nossas vagas aqui: https://vortxtech.gupy.io/
 
 * **Pré-conversa:** alguém do nosso time de recrutamento vai te ligar para confirmar algumas informações e para conhecer um pouco mais sobre você e sobre suas experiências.
 
