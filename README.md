@@ -1,7 +1,7 @@
 <img src="https://avatars.githubusercontent.com/u/40668234" width="127px" height="127px" align="left"/>
 
 # Venha para a Vórtx
-:handshake: Venha fazer parte do nosso time: [**estamos contratando!**](https://jobs.kenoby.com/vortx/)
+:handshake: Venha fazer parte do nosso time: [**estamos contratando!**](https://vortxtech.gupy.io/)
 
 ## QUEM SOMOS E O QUE FAZEMOS?
 
