@@ -27,7 +27,7 @@ Nosso processo normalmente segue os seguintes steps (que podem variar em alguns 
 
 * **Candidatura**: você pode se candidatar a uma de nossas vagas aqui: https://vortxtech.gupy.io/
 
-* **Pré-conversa:** alguém do nosso time de recrutamento vai te ligar para confirmar algumas informações e para conhecer um pouco mais sobre você e sobre suas experiências.
+* **Pré-conversa:** alguém do nosso time de recrutamento vai te ligar para confirmar algumas informações e para conhecer um pouco mais sobre você e sobre suas experiências. Nesta fase você também faz um teste cultural, que costuma levar 15 minutos.
 
 * **Teste técnico:** após este bate-papo, o nosso time de EX (Employee Experience), vai lhe enviar um teste técnico (Algumas vagas não possuem testes, por exemplo UX, PM) e você terá até 5 dias úteis para realizá-lo, caso precise estender este prazo, podemos negociar, sem problemas.
 
